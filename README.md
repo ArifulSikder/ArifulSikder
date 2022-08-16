@@ -1,6 +1,6 @@
 ## Hello!
 
-**I am** [**Ariful Sikder**](https://github.com/ArifulSikder)！**I'm a Developer of Wakeupict Academy At Rajbari.**
+**I am** [**Ariful Sikder**](https://github.com/ArifulSikder)！**I'm a Developer of Wakeupict, a software farm At Rajbari.**
 
 
 ### Languages and Tools 🛠 
