@@ -10,31 +10,6 @@ I'm an experienced web developer with over 5 years of expertise in web developme
 | PHP              | Alpine.js                    |                 |         |
 |                  | Bootstrap                    |                 |         |
 |                  | Tailwind CSS                 |                 |         |
-|                  |                              |                 |         |
-
-## Projects I've Completed
-
-### Hospital Management System
-- Technologies: Laravel, Nuxt.js, Restful API, Apex Chart, MySql
-
-### E-commerce (Multi or Single vendor)
-- Technologies: Laravel, Livewire, Alpine.js, Tailwind CSS, MySql
-
-### Construction and Machinery
-- Technologies: Laravel, Alpine.js, JQuery, Bootstrap, MySql
-
-### Asset Management Software
-- Technologies: Laravel, Livewire, Bootstrap, MySql
-
-### WakeUpICT (CMS)
-- Technologies: Laravel, JQuery, Apex Chart, Bootstrap, MySql
-
-### Regal Jute (CMS)
-- Technologies: Laravel, JQuery, Apex Chart, Bootstrap, MySql
-
-I've worked on many other projects beyond the ones listed here.
-
-Feel free to reach out to me if you'd like to collaborate on your web development projects. Let's turn your ideas into exceptional web solutions.
 
 **Ariful Sikder**
 Thanks.
