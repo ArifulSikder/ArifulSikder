@@ -11,11 +11,6 @@ I'm an experienced web developer with over 5 years of expertise in web developme
 |                  | Bootstrap                    |                 |         |
 |                  | Tailwind CSS                 |                 |         |
 
-**Ariful Sikder**
-Thanks.
-
-
-
 ### Languages and Tools 🛠 
 
 ![PHP](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
@@ -30,3 +25,6 @@ Thanks.
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 
+
+**Ariful Sikder**
+*Thanks.*
