@@ -1,6 +1,52 @@
-## Hello!
+# Hi, I'm Ariful Sikder! 🦄
 
-**I am** [**Ariful Sikder**](https://github.com/ArifulSikder)！**I'm a Developer of Wakeupict, a Software Farm At Rajbari.**
+I'm an experienced web developer with over 5 years of expertise in web development. I specialize in a wide range of technologies and have successfully completed various projects. Here are some of my key skills:
+
+## Backend
+- Laravel
+- Livewire
+- PHP
+
+## Frontend
+- Vue.js
+- Nuxt.js
+- Alpine.js
+- Bootstrap
+- Tailwind CSS
+
+## Database
+- MySQL
+
+## Version Control
+- Git
+
+## Projects I've Completed
+
+### Hospital Management System
+- Technologies: Laravel, Nuxt.js, Restful API, Apex Chart, MySql
+
+### E-commerce (Multi or Single vendor)
+- Technologies: Laravel, Livewire, Alpine.js, Tailwind CSS, MySql
+
+### Construction and Machinery
+- Technologies: Laravel, Alpine.js, JQuery, Bootstrap, MySql
+
+### Asset Management Software
+- Technologies: Laravel, Livewire, Bootstrap, MySql
+
+### WakeUpICT (CMS)
+- Technologies: Laravel, JQuery, Apex Chart, Bootstrap, MySql
+
+### Regal Jute (CMS)
+- Technologies: Laravel, JQuery, Apex Chart, Bootstrap, MySql
+
+I've worked on many other projects beyond the ones listed here.
+
+Feel free to reach out to me if you'd like to collaborate on your web development projects. Let's turn your ideas into exceptional web solutions.
+
+**Ariful Sikder**
+Thanks.
+
 
 
 ### Languages and Tools 🛠 
