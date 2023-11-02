@@ -3,16 +3,14 @@
 I'm an experienced web developer with over 5 years of expertise in web development. I specialize in a wide range of technologies and have successfully completed various projects. Here are some of my key skills:
 
 ### 🔧 My Skills:
-| Backend          | Frontend                     | Version Control |
-|------------------|------------------------------|-----------------|
-| Laravel          | Vue.js                       | Git             |
-| Livewire         | Nuxt.js                      |                 |
-| PHP              | Alpine.js                    |                 |
-|                  | Bootstrap                    |                 |
-|                  | Tailwind CSS                 |                 |
-|                  |                              |                 |
-|                  |                              |                 |
-| MySQL            |                              |                 |
+| Backend          | Frontend                     | Version Control | Database|
+|------------------|------------------------------|-----------------|---------|
+| Laravel          | Vue.js                       | Git             | MySQL   |
+| Livewire         | Nuxt.js                      |                 |         |
+| PHP              | Alpine.js                    |                 |         |
+|                  | Bootstrap                    |                 |         |
+|                  | Tailwind CSS                 |                 |         |
+|                  |                              |                 |         |
 
 ## Projects I've Completed
 
