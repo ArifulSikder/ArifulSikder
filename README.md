@@ -1,6 +1,6 @@
 # Full Stack Developer | PHP, Laravel, Vue.js, Nuxt.js | API Expert 🎇
 
-I'm an experienced web developer with over 5 years of expertise in web development. I specialize in a wide range of technologies and have successfully completed various projects. Here are some of my key skills:
+I am a skilled web developer with expertise in a variety of technologies, specializing in both backend and frontend development. Here are some of my key skills:
 
 ### 🔧 My Skills:
 | Backend          | Frontend                     | Version Control | Database|
