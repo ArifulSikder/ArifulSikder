@@ -8,7 +8,7 @@ I am a skilled web developer with expertise in a variety of technologies, specia
 | Laravel          | Vue.js                       | Git             | MySQL   |
 | Livewire         | Nuxt.js                      |                 | MongoDB |
 | PHP              | Alpine.js                    |                 |         |
-|                  | Bootstrap                    |                 |         |
+| Wordpress        | Bootstrap                    |                 |         |
 |                  | Tailwind CSS                 |                 |         |
 
 ### Languages and Tools 🛠 
